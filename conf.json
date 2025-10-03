@@ -1,0 +1,16 @@
+{
+  "ranges": [
+    "192.168.15.1-50"
+  ],
+  "timeout": 1,
+  "threads": 5,
+  "community": "public",
+  
+  "zabbix_api": {
+    "url": "https://zabbix.teltecsolutions.com.br/api_jsonrpc.php", 
+    "api_token": "eecc3c881bbf40a7f2cc1a33ab12dd99c61487524fb6b9f46c493ece13bdee79", 
+    "host_group_id": "24",  
+    "template_id": "10204",
+    "proxy_hostid": "0"
+  }
+}
