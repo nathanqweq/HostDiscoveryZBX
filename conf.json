@@ -1,16 +1,16 @@
 {
   "ranges": [
-    "192.168.15.1-50"
-  ],
+    "10.91.50.1-14"
+],
   "timeout": 1,
   "threads": 5,
-  "community": "public",
-  
+  "community": "M0n1t0r4cAo",
+
   "zabbix_api": {
-    "url": "https://zabbix.teltecsolutions.com.br/api_jsonrpc.php", 
-    "api_token": "eecc3c881bbf40a7f2cc1a33ab12dd99c61487524fb6b9f46c493ece13bdee79", 
-    "host_group_id": "24",  
-    "template_id": "10204",
-    "proxy_hostid": "0"
+    "url": "https://zabbix.pucrs.br/api_jsonrpc.php",
+    "api_token": "ca90330a03ab3c51560562a98ad4dd47713b9b52c7a2520ee71cbbd83c42338e",
+    "host_group_id": "126",
+    "template_id": "10563",
+    "proxy_hostid": "1"
   }
 }
